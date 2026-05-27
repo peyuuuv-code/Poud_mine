@@ -1,0 +1,41 @@
+	['pickaxe'] = {
+		label = 'Pickaxe',
+		weight = 1500,
+		stack = false,
+		close = true
+	},
+
+	['raw_ore'] = {
+		label = 'Raw Ore',
+		weight = 400
+	},
+
+	['washed_ore'] = {
+		label = 'Washed Ore',
+		weight = 350
+	},
+
+	['stone'] = {
+		label = 'Stone',
+		weight = 250
+	},
+
+	['iron'] = {
+		label = 'Iron',
+		weight = 300
+	},
+
+	['copper'] = {
+		label = 'Copper',
+		weight = 300
+	},
+
+	['gold'] = {
+		label = 'Gold',
+		weight = 250
+	},
+
+	['diamond'] = {
+		label = 'Diamond',
+		weight = 150
+	},
